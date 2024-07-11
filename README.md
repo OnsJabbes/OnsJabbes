@@ -19,8 +19,6 @@ Ons Jabbes, a 22-year-old professional master's degree student. Passionate about
   
 
 <br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -75,10 +73,6 @@ Ons Jabbes, a 22-year-old professional master's degree student. Passionate about
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
 ## Github Stats 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -87,13 +81,3 @@ Ons Jabbes, a 22-year-old professional master's degree student. Passionate about
 </picture>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=OnsJabbes&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
