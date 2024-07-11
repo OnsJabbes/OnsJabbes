@@ -12,26 +12,11 @@
 
 
 ### Glad to see you here!  
-Ons Jabbes, a 22-year-old professional master's degree student,. Passionate about web development, DevOps, and cloud technologies, I specialize in building robust backends that power client-facing apps and websites. I enjoy designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.  
+Ons Jabbes, a 22-year-old professional master's degree student. Passionate about web development, DevOps, and cloud technologies, I specialize in building robust backends that power client-facing apps and websites. I enjoy designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.  
   
 
 <img src="https://media0.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp?cid=790b76114ysgnmbnl34n082izrtn59thcndg3kg46o4z66h0&ep=v1_gifs_search&rid=giphy.webp&ct=g" align="left" height="300" width="600" />  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-🌱 I’m currently learning everything 🤣  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
