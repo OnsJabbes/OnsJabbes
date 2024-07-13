@@ -15,7 +15,7 @@
 Ons Jabbes, a 22-year-old professional master's degree student. Passionate about web development, DevOps, and cloud technologies, I specialize in building robust backends that power client-facing apps and websites. I enjoy designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.  
   
 
-<img src="https://media.tenor.com/m1Mr-khUDVgAAAAM/anime-hacking.gif" align="left" height="300" width="830" />  
+<img src="https://media.tenor.com/wilYo_7wGKYAAAAM/new-game-ahagon-umiko-programming.gif" align="left" height="300" width="830" />  
   
 
 <br/>  
