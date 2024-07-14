@@ -63,24 +63,18 @@ Ons Jabbes, a 22-year-old professional master's degree student. Passionate about
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OnsJabbes&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## `Github Stats`
+ 
 
-</td><td valign="top" width="50%">
+<div align="center">
+ 
+![Ons's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnsJabbes&hide=contribs,prs&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnsJabbes&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Ons's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=OnsJabbes&amp;theme=tokyonight)
+ 
+![Ons's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OnsJabbes&amp;theme=tokyonight)
 
-</td></tr></table>  
-
-<br/>  
-
-## Github Stats 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+ </div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=OnsJabbes&&style=flat-square)  
