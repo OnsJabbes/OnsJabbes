@@ -19,7 +19,7 @@ Ons Jabbes, a 22-year-old professional master's degree student. Passionate about
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="left" height="200" width="600" />  
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="left" height="200" width="1020" />  
 </div>  
 
 
