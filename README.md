@@ -14,12 +14,8 @@
 ### Glad to see you here!  
 Ons Jabbes, a 22-year-old professional master's degree student. Passionate about web development, DevOps, and cloud technologies, I specialize in building robust backends that power client-facing apps and websites. I enjoy designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.  
  
-<br/>  
-<br/>  
-
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="left" height="200" width="1020" />  
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="left" height="300" width="1020" />  
 </div>  
 
 
